@@ -1,4 +1,4 @@
-# npm create vue@latest
+# Terminal History
 
 ## create vue project by vue3
 
